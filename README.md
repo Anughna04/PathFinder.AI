@@ -40,7 +40,7 @@ PathFinder.AI/
 
 2. **Install Required Libraries:**
    ```bash
-   pip install -r requirements.txt
+   pip install groq streamlit
    ```
 
 3. **Run the Streamlit App:**
