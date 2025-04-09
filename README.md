@@ -5,7 +5,7 @@
 **PathFinder.AI** is an AI-powered career guidance tool designed to help users explore suitable career paths based on their skills and interests. It also provides structured learning paths to help users upskill and achieve their career goals. The project is built using **Streamlit** for an interactive UI and integrates **Groq AI** (Llama3/Mixtral) to generate career recommendations and learning paths.
 
 ## 🎥 Demo Video
-![Demo GIF](demo.gif)
+![Demo GIF](PathFinder_demo.gif)
 
 ## 📌 Features
 ✅ **Personalized Career Recommendations** - Get AI-generated career options tailored to your skills and interests.  
